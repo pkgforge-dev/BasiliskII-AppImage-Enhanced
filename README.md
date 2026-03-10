@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/BasiliskII-AppImage-Enhanced)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kanjitalk755/macemu/refs/heads/master/BasiliskII/src/Windows/BasiliskII.ico" width="128" />
+  <img src="https://github.com/pkgforge-dev/BasiliskII-AppImage-Enhanced/blob/main/AppDir/BasiliskII.png" width="128" />
 </p>
 
 
