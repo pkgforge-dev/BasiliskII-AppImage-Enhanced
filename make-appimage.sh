@@ -12,7 +12,7 @@ export DESKTOP=PATH_OR_URL_TO_DESKTOP_ENTRY
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/basiliskii
+quick-sharun /usr/bin/BasiliskII
 
 # Additional changes can be done in between here
 
